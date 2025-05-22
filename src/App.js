@@ -1,7 +1,12 @@
-import logo from './logo.svg';
+import React from 'react';
+import {BrowserRouter,Routes,Route} from "react-router-dom";
 
-function App() {
-  return <h1>Acceuil</h1>;
-}
+const App = () => {
+  return (
+      <div>
+        <h1>Hello React</h1>
+      </div>
+  );
+};
 
 export default App;

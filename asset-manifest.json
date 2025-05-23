@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/app-drapeau-react/static/css/main.04eacfe7.css",
-    "main.js": "/app-drapeau-react/static/js/main.75d62430.js",
+    "main.js": "/app-drapeau-react/static/js/main.07702d66.js",
     "static/media/main.jpg": "/app-drapeau-react/static/media/main.516fbcd135926107480c.jpg",
     "static/media/JosefinSans-Medium.ttf": "/app-drapeau-react/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
     "index.html": "/app-drapeau-react/index.html",
     "main.04eacfe7.css.map": "/app-drapeau-react/static/css/main.04eacfe7.css.map",
-    "main.75d62430.js.map": "/app-drapeau-react/static/js/main.75d62430.js.map"
+    "main.07702d66.js.map": "/app-drapeau-react/static/js/main.07702d66.js.map"
   },
   "entrypoints": [
     "static/css/main.04eacfe7.css",
-    "static/js/main.75d62430.js"
+    "static/js/main.07702d66.js"
   ]
 }

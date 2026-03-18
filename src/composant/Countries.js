@@ -8,11 +8,12 @@ const Countries = () => {
     const [selectedRadio,setSelectedRadio] = useState("");
     const radios = ["Africa", "America", "Asia", "Europe", "Oceania"];
 
+    // Le useEffect se joue lorsque le composant est monté
     useEffect(() => {
         axios
-            .get("https://restcountries.com/v3.1/all")
+            .get("https://restcountries.com/v3.1/all?fields=name,flags,capital,population,continents,translations")
             .then((res) => setData(res.data));
-    }, [])
+    }, []);
 
     return (
         <div className="countries">
